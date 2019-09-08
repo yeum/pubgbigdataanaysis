@@ -64,16 +64,16 @@
     <Compile Include="Assets\Scenes\BattleGroundTest.cs" />
     <Compile Include="Assets\Scenes\SimpleJSON.cs" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>D:/4학년1학기/빅데이터/BattleGroundTest/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>D:/4학년1학기/빅데이터/PUBG_BigdataAnalysis/BattleGroundTest/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/4학년1학기/빅데이터/BattleGroundTest/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>D:/4학년1학기/빅데이터/PUBG_BigdataAnalysis/BattleGroundTest/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>D:/4학년1학기/빅데이터/BattleGroundTest/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>D:/4학년1학기/빅데이터/PUBG_BigdataAnalysis/BattleGroundTest/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/4학년1학기/빅데이터/BattleGroundTest/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>D:/4학년1학기/빅데이터/PUBG_BigdataAnalysis/BattleGroundTest/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.1.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
